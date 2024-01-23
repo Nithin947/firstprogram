@@ -5,7 +5,7 @@ class ASCII
 		int num,a,count;
 		for(num=1;num<=255;num++)
 		{
-			a = 1;
+			a = 2;
 			count = 0;
 			while(a<=num)
 			{
