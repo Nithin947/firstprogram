@@ -12,7 +12,6 @@ class ASCII
 				if(count)
 				count++;
 				a++;
-			
-		}
-	}
+		         }   //my name is saikiran
+	       }
 }
